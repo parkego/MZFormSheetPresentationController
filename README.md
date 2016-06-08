@@ -53,7 +53,8 @@ Add the following line to your `Cartfile`.
 
 ```github "m1entus/MZFormSheetPresentationController" "master"```
 
-Then run `carthage update --no-use-binaries` or just `carthage update`. For details of the installation and usage of Carthage, visit [it's project page](https://github.com/Carthage/Carthage).
+Then run `carthage update --no-use-binaries` or just `carthage update`. For details of the installation and usage of Carthage, visit
+[its project page](https://github.com/Carthage/Carthage).
 
 ###[CocoaPods](https://github.com/CocoaPods/CocoaPods)
 
@@ -70,7 +71,7 @@ target 'ProjectName' do
 end
 ```
 
-Then run `pod install --verbose` or just `pod install`. For details of the installation and usage of CocoaPods, visit [it's project page](https://github.com/CocoaPods/CocoaPods).
+Then run `pod install --verbose` or just `pod install`. For details of the installation and usage of CocoaPods, visit [its project page](https://github.com/CocoaPods/CocoaPods).
 
 ## How To Use
 
